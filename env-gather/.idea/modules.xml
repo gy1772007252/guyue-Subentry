@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/env-gather.iml" filepath="$PROJECT_DIR$/env-gather.iml" />
+      <module fileurl="file://$PROJECT_DIR$/env-gather-entity/env-gather-entity.iml" filepath="$PROJECT_DIR$/env-gather-entity/env-gather-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/env-gather-impl/env-gather-impl.iml" filepath="$PROJECT_DIR$/env-gather-impl/env-gather-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/env-gather-interface/env-gather-interface.iml" filepath="$PROJECT_DIR$/env-gather-interface/env-gather-interface.iml" />
+    </modules>
+  </component>
+</project>
